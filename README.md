@@ -7,3 +7,7 @@
 https://docs.google.com/spreadsheets/d/1nqc9A9M5QJgSnjkErWeyDS4KTiLB1N9VjHd3T6k69hE/
 
 활용 가능한 데이터가 추가되는대로 계속 보완합니다.
+
+ipython notebook 코드는 다음 URL에서도 볼 수 있습니다.
+
+https://nbviewer.jupyter.org/github/yong27/coronadaily/blob/master/COVID19-daily-analysis.ipynb
